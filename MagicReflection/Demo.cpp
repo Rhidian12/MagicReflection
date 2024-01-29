@@ -5,16 +5,10 @@
 
 #include "MagicReflection.h"
 
-struct FooBar
-{
-
-};
+struct FooBar {};
 
 template<typename T, typename U>
-class TemplatedClass
-{
-
-};
+class TemplatedClass {};
 
 int main()
 {
